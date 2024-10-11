@@ -16,3 +16,4 @@ while random_number != user_input: #while문 뒤의 조건이 거짓일때 반�
 
 print("정답입니다!")
 print("끝났습니다!")
+print("dongchan")
